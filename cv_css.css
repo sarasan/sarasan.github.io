@@ -6,7 +6,7 @@ body{
 
 .container{
 	background-color:#000;
-	border:1px solid #e1f5fe;}
+	/*border:1px solid #e1f5fe;}*/
 
 
 .padding_div{
@@ -21,7 +21,7 @@ body{
 
 a, h3, h2{
 	text-decoration:none;
-	color:#6a5acd;
+	color:#9933FF;
 	}
 
 a:hover{
@@ -34,7 +34,7 @@ a:hover{
 	}
 	
 .li-skills{
-	color:#6a5acd;
+	color:#9933FF;
 	}
 
 
@@ -44,7 +44,7 @@ a:hover{
 	}
 
 .progress-bar{
-	background-color:#6a5acd; 
+	background-color:#9933FF; 
 	color: #e1f5fe;
 	}
 
@@ -100,7 +100,7 @@ a:hover{
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: #6a5acd;
+  color: #9933FF;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -150,12 +150,12 @@ a:hover{
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #6a5acd;
+  color: #9933FF;
 }
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #6a5acd;
+  background-color: #9933FF;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -188,7 +188,7 @@ a:hover{
 }
 
 .navbar-b .navbar-brand {
-  color: #6a5acd;
+  color: #9933FF;
   font-size: 1.6rem;
   font-weight: 600;
 }
