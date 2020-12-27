@@ -15,16 +15,16 @@ body{
 	}
 
 .padding_ul{
-	padding:30px;
+	padding:15px;
 	}
-	
+
 
 
 a, h3, h2{
 	text-decoration:none;
 	color:#6a5acd;
 	}
-	
+
 
 a:hover{
 	color:#e1f5fe;
@@ -34,8 +34,8 @@ a:hover{
 .navbar{
 	overflow:auto;
 	}
-	
-	
+
+
 .navbar-light .navbar-nav .nav-link {
  	color: #6a5acd;
 }
@@ -48,7 +48,7 @@ a:hover{
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
   	color:  #e1f5fe;
 }
- 
+
  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
 	color:  #6a5acd;
 }
@@ -79,7 +79,7 @@ a:hover{
 .navbar-toggler-icon{
 	background-color: #6a5acd;
 	}
-	
+
 .li-skills{
 	color:#6a5acd;
 	}
@@ -88,12 +88,14 @@ a:hover{
 
 .progress{
 	background-color:#e1f5fe;
+	height: 15px;
 	}
 
 .progress-bar{
-	background-color:#6a5acd; 
+	background-color:#6a5acd;
 	color: #e1f5fe;
-	}
+	height: 15px;
+	line-height: normal;
 
 #myBtn {
 	display: none;
@@ -113,13 +115,3 @@ a:hover{
 #myBtn:hover {
 	background-color: #6600FF;
 }
-
-
-
-
-
-
-
-
-
-
